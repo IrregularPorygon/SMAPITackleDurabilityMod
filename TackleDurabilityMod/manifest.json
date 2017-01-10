@@ -1,0 +1,13 @@
+﻿{
+   "Name": "TackleDurabilityMod",
+   "Author": "IrregularPorygon",
+   "Version": {
+      "MajorVersion": 0,
+      "MinorVersion": 1,
+      "PatchVersion": 0,
+      "Build": ""
+   },
+   "Description": "Adjusts the fishing tackle durability",
+   "UniqueID": "TackleDurabilityMod",
+   "EntryDll": "TackleDurabilityMod.dll"
+}

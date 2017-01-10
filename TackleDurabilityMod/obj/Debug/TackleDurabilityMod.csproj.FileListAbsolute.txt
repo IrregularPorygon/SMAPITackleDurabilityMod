@@ -1,0 +1,5 @@
+C:\git\SMAPITackleDurabilityMod\TackleDurabilityMod\TackleDurabilityMod\bin\Debug\TackleDurabilityMod.dll
+C:\git\SMAPITackleDurabilityMod\TackleDurabilityMod\TackleDurabilityMod\bin\Debug\TackleDurabilityMod.pdb
+C:\git\SMAPITackleDurabilityMod\TackleDurabilityMod\TackleDurabilityMod\obj\Debug\TackleDurabilityMod.csprojResolveAssemblyReference.cache
+C:\git\SMAPITackleDurabilityMod\TackleDurabilityMod\TackleDurabilityMod\obj\Debug\TackleDurabilityMod.dll
+C:\git\SMAPITackleDurabilityMod\TackleDurabilityMod\TackleDurabilityMod\obj\Debug\TackleDurabilityMod.pdb
